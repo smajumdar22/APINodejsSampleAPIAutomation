@@ -1,0 +1,7 @@
+[2022-02-03T09:03:32.953] [INFO] default - POST register user
+[2022-02-03T09:03:33.410] [INFO] default - {
+  email: 'michael.lawson@reqres.in',
+  password: 'password123',
+  id: '378',
+  createdAt: '2022-02-03T17:03:34.155Z'
+}
